@@ -9,7 +9,7 @@ url = https://unsplash.com/napi/search?query=dog&per_page=20
 # work
 
 1. so what this script does is, it downlaods first 20 images shown as results
-2. you can change the limit buy changing the value of " per_page " in url or just ask user how many images he want
+2. you can change the limit buy changing the value of " per_page " in url or just ask user how many images he want using ' input '
 
 # extra
 
