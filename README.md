@@ -1,6 +1,6 @@
 # Unsplash-web-scraper
 
-url = https://unsplash.com/napi/search?query=dog&per_page=20
+url = https://unsplash.com/napi/search?query=[your search]&per_page=20
 
 # modules used
 
